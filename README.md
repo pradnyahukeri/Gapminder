@@ -1,4 +1,4 @@
-# Gapminder
+# Projects
 #**1 Project:Visual Data Analysis** 📊📈 - inspired by the animated graph of Hans Rosling
 
 In this project, Pandas library is used to read the data, and matplotlib, seaborn and Plotly are used to visualize the data.
