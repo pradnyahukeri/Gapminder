@@ -32,11 +32,3 @@ streamlit hello
 ```
 (it should pop up a streamlit web app in your browser)
 
-## Data analysis excercise on penguins
-**Business goal:**
-
-*Our marketing team would love to know about the penguins 🐧*
-
-Use an editor (e.g., Vscode) to open the file penguins_excercise.py. Read the TODO doc string at the beginning of the file. 
-
-Afterward we will create out of that a nice sort of dashboard using streamlit. 
