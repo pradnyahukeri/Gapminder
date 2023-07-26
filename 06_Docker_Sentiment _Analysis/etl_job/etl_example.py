@@ -81,7 +81,7 @@ def sentiment_analysis(text):
         sentiment_label = "Neutral"
 
     #code for slackboat 
-    webhook_url = "https://hooks.slack.com/services/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"
+    webhook_url = "  "
 
     data = {"blocks": [{
 			"type": "section",
